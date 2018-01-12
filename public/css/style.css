@@ -1,0 +1,16 @@
+
+body{
+    background-color:black;
+}
+
+body.brown-background{
+    background-color: brown;
+}
+
+.top-header{
+    color:red;
+}
+
+.generic-text{
+    color: #0077EE;
+}
